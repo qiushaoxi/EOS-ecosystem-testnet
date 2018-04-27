@@ -1,0 +1,8 @@
+default.wallet
+nodeos.pid
+stderr.txt
+stdout.txt
+blocks/blocks.index
+blocks/blocks.log
+shared_mem/shared_memory.bin
+shared_mem/shared_memory.meta
